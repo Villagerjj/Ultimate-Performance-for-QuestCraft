@@ -10,6 +10,19 @@ take all jar files stored in the zip and drop them in the folder (same as above)
 The most recent version of UPQC has been tested on QuestCraft Version 1.1.1
 (minecraft version 1.18.1) 
 
-Compatible fabric mods: https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0
+Compatible fabric mods ofr QuestCraft: https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0
+
+Information:
+This modpack contains all of the recomended mods from here:https://github.com/QuestCraftPlusPlus/QuestCraft#Recommended-mods
+I have added extra mods designed to help with the main factors of lag.
+I do not own any of these mods
+
+Optional features:
+better dropped items - this simply removes the spinning animation of items on the ground and makes them sideways (improves realism and performance)
+lamb Dynamic lights - basically  from optifine, but with an options to make it faster (is super fast combined with starlight)
+
+You can remove these features by deleting the following .jars:
+betterdroppeditems-1.3.1-21w37a.jar
+lambdynamiclights-2.1.0+1.17.jar
 
 Discord username: @Villagerjj#1076
