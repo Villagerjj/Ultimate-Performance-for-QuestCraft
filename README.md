@@ -7,7 +7,9 @@ Delete all of the default mods in your QuestCraft Mod Directory located here: an
 Step 2:
 take all jar files stored in the zip and drop them in the folder (same as above) located here: android/data/net.kdt.pojavlaunch.debug/files/.minecraft/mods
 
-The most recent version has been tested on QuestCraft Version 1.1.1
+The most recent version of UPQC has been tested on QuestCraft Version 1.1.1
 (minecraft version 1.18.1) 
+
+Compatible fabric mods: https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0
 
 Discord username: @Villagerjj#1076
