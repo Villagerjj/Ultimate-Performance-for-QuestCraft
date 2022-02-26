@@ -15,6 +15,10 @@ improved multiplayer performance (using krypton)
 
 Installation:
 
+preperation:
+you need a way to view/modify your quests internal files
+you also need a quest
+
 Step 1:
 Delete all of the default mods in your QuestCraft Mod Directory located here: android/data/net.kdt.pojavlaunch.debug/files/.minecraft/mods
 
@@ -38,7 +42,7 @@ Discord username: @Villagerjj#1076
 
 Best way to configure ingame settings for optimal performance:
 
-Reduce resolution to 30%, and render distance to 0.1 - Pojav settings
+Reduce resolution to 30% in the Pojav settings. this does not effect visual quality, but still improves performance.
 change render distance to 5-6 chunks (depends on what quest model you have)
 change biome blending to lowest setting
 set lamb dynamic lights to fastest
