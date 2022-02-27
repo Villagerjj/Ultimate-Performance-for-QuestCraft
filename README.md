@@ -30,6 +30,8 @@ The most recent version of UPQC has been tested on QuestCraft Version 1.1.1
 
 Compatible fabric mods for QuestCraft: https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0
 
+If your looking for a better "Vanilla +" modpack for QuestCraft, go here:https://github.com/Mage-Enderman/Mage-QuestCraft-Mods
+
 Information:
 This modpack contains all of the recomended mods from here:https://github.com/QuestCraftPlusPlus/QuestCraft#Recommended-mods
 I have added extra mods designed to help with the main factors of lag.
@@ -46,4 +48,36 @@ Reduce resolution to 30% in the Pojav settings. this does not effect visual qual
 change render distance to 5-6 chunks (depends on what quest model you have)
 change biome blending to lowest setting
 set lamb dynamic lights to fastest
+
+Q&A:
+
+Q: Does this modify any vanilla aspecs of the game?
+A: short answer, not really.
+
+Q: why does it crash?
+A: open an issue if it persists after trying a reinstall.
+
+Q: What does this do?
+A: it improves QC's performance through fabric mods. and depending on the version of UPQC it will fix a few bugs as well.
+
+Q: My game is still lagging/is lagging more what do I do?
+A: get the lite version of the modpack, and or change render resolution in the pojav settings to 30%. and increase RAM to 2080 MB
+
+Q: Can I use resource packs with this?
+A: yes, but only if it modifiys textures. anything else will cause a softlock.
+
+Q: Will you update this modpack to 1.18.2?
+A: perhaps. I will port it once QC is ported to 1.18.2, and most mods are ported as well.
+
+Q: Sex mod?
+A: no, that would be bad.
+
+Q: How is the performance?
+A: normal QC is around 40-60 fps. with this modpack you can expect a 10-30 fps gain. (depends on settings, modpack version, and world type)
+
+Q: This modpack broke my QC install
+A: this should not happen with any version of the UPCQ modpacks. It was most likely an extra mod/resource pack you installed. to fix this you will have to delete all of pojav/QC and reinstall it.
+
+Q: does this include sodium?
+A: not yet, I am working on making sodium work with QC. but it is not likely. not until the QC devs port it instead.
 
