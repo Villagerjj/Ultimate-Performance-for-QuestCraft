@@ -52,15 +52,15 @@ A: it improves QC's performance through fabric mods. and depending on the versio
 
 Q: My game is still lagging/is lagging more what do I do? 
 
-A: get the lite version of the modpack, and or change render resolution in the pojav settings to 30%. and increase RAM to 2080 MB
+A: remove some of the Qol mods (like dynamic lights or sound physics), and or increase RAM to 2080 MB
 
 Q: Can I use resource packs with this? 
 
-A: yes, but only if it modifies textures. anything else will cause a softlock.
+A: yes, but only if it modifies textures and does not go above 32x32 textures. anything else will cause a softlock.
 
-Q: Will you update this modpack to 1.18.2? 
+Q: Will you update this modpack to 1.19? 
 
-A: perhaps. I will port it once QC is ported to 1.18.2, and most mods are ported as well.
+A: perhaps. I will port it once QC is ported to 1.19, and most mods are ported as well.
 
 Q: Sex mod? 
 
@@ -68,7 +68,7 @@ A: no, that would be bad.
 
 Q: How is the performance? 
 
-A: normal QC is around 40-60 fps. with this modpack you can expect a 10-30 fps gain. (depends on settings, modpack version, and world type)
+A: normal QC is around 45-65 fps. with this modpack you can expect a 15-35 fps gain. (depends on settings, modpack version, and world type)
 
 Q: This modpack broke my QC install 
 
@@ -76,4 +76,4 @@ A: this should not happen with any version of the UPCQ modpacks. It was most lik
 
 Q: does this include sodium? 
 
-A: not yet, I am working on making sodium work with QC. but it is not likely. not until the QC devs port it instead.
+A: not until the QC devs port it.
