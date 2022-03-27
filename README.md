@@ -1,83 +1,79 @@
 # Ultimate-Performance-for-QuestCraft
-Various mods to make quest craft run faster, and without modifying the vanilla experience. All mods are meant to be client side, though some mods are to help with servers that have server and client performance mods. I have tested out this mod pack on singleplayer, and multiplayer. The performance may or may not be noticeable, depending on what quest you are using.  
+Various mods to make quest craft run faster, and without modifying the vanilla experience. All mods are meant to be client side, though some mods are to help with servers that have server and client performance mods. I have tested out this mod pack on singleplayer, and multiplayer. The performance may or may not be noticeable, depending on what quest model you are using.
 
-(v2) Improvments:
-Fixed crosshair disapearing
-optimized rain
-Better sound engine
-Optimized redstone
-removed tutorial stuffs
+## Improvements
+Fixed crosshair disappearing
+optimized rain 
+Better sound engine 
+Optimized Redstone 
 mod menu
-cool grass
-dynamic lighting
-optimized chests/block entities
-improved multiplayer performance (using krypton)
+dynamic lighting 
+optimized chests/block entities 
+improved multiplayer performance
+improved chunk loading
+improved world loading
 
-Installation:
+## Installation
 
-preperation:
-you need a way to view/modify your quests internal files
-you also need a quest
+__DISCLAIMER__ you need a way to view/modify your quests internal files you also need a quest
 
-Step 1:
-Delete all of the default mods in your QuestCraft Mod Directory located here: android/data/net.kdt.pojavlaunch.debug/files/.minecraft/mods
+1. install QuestCraft and load up the game at least once
+2. extract the folder to the root of your quest's internal storage 
+3. have fun! 
 
-Step 2:
-take all jar files stored in the zip and drop them in the folder (same as above) located here: android/data/net.kdt.pojavlaunch.debug/files/.minecraft/mods
+[Compatible fabric mods for QuestCraft](https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0)
 
-The most recent version of UPQC has been tested on QuestCraft Version 1.1.1
-(minecraft version 1.18.1) 
+If your looking for a better "Vanilla +" modpack for QuestCraft, go [here.](https://github.com/Mage-Enderman/Mage-QuestCraft-Mods)
 
-Compatible fabric mods for QuestCraft: https://docs.google.com/spreadsheets/d/1asSBM30P3bXXjfQrpcjZodNJGVZuTiVrFGoooB8TwTw/edit#gid=0
+## Information 
+This modpack contains all of the recomended mods from [here.](https://github.com/QuestCraftPlusPlus/QuestCraft#Recommended-mods) 
 
-If your looking for a better "Vanilla +" modpack for QuestCraft, go here:https://github.com/Mage-Enderman/Mage-QuestCraft-Mods
-
-Information:
-This modpack contains all of the recomended mods from here:https://github.com/QuestCraftPlusPlus/QuestCraft#Recommended-mods
-I have added extra mods designed to help with the main factors of lag.
-I do not own any of these mods
-
-
+I have added extra mods designed to help with the main factors of lag. I do not own any of these mods
 
 Discord username: @Villagerjj#1076
 
-
 Best way to configure ingame settings for optimal performance:
 
-Reduce resolution to 30% in the Pojav settings. this does not effect visual quality, but still improves performance.
-change render distance to 5-6 chunks (depends on what quest model you have)
-change biome blending to lowest setting
-set lamb dynamic lights to fastest
+Reduce resolution to 30% in the Pojav settings. this does not effect visual quality, but still improves performance. change render distance to 5-6 chunks (depends on what quest model you have) change biome blending to lowest setting set lamb dynamic lights to fastest
 
-Q&A:
+## Q&A
 
-Q: Does this modify any vanilla aspecs of the game?
+Q: Does this modify any vanilla aspects of the game? 
+
 A: short answer, not really.
 
-Q: why does it crash?
+Q: why does it crash? 
+
 A: open an issue if it persists after trying a reinstall.
 
-Q: What does this do?
+Q: What does this do? 
+
 A: it improves QC's performance through fabric mods. and depending on the version of UPQC it will fix a few bugs as well.
 
-Q: My game is still lagging/is lagging more what do I do?
+Q: My game is still lagging/is lagging more what do I do? 
+
 A: get the lite version of the modpack, and or change render resolution in the pojav settings to 30%. and increase RAM to 2080 MB
 
-Q: Can I use resource packs with this?
-A: yes, but only if it modifiys textures. anything else will cause a softlock.
+Q: Can I use resource packs with this? 
 
-Q: Will you update this modpack to 1.18.2?
+A: yes, but only if it modifies textures. anything else will cause a softlock.
+
+Q: Will you update this modpack to 1.18.2? 
+
 A: perhaps. I will port it once QC is ported to 1.18.2, and most mods are ported as well.
 
-Q: Sex mod?
+Q: Sex mod? 
+
 A: no, that would be bad.
 
-Q: How is the performance?
+Q: How is the performance? 
+
 A: normal QC is around 40-60 fps. with this modpack you can expect a 10-30 fps gain. (depends on settings, modpack version, and world type)
 
-Q: This modpack broke my QC install
+Q: This modpack broke my QC install 
+
 A: this should not happen with any version of the UPCQ modpacks. It was most likely an extra mod/resource pack you installed. to fix this you will have to delete all of pojav/QC and reinstall it.
 
-Q: does this include sodium?
-A: not yet, I am working on making sodium work with QC. but it is not likely. not until the QC devs port it instead.
+Q: does this include sodium? 
 
+A: not yet, I am working on making sodium work with QC. but it is not likely. not until the QC devs port it instead.
