@@ -16,3 +16,5 @@ https://www.curseforge.com/minecraft/mc-mods/particle-rain
 https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
 https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
 https://www.minecraftmods.com/world-handler/
+https://www.curseforge.com/minecraft/mc-mods/completeconfig
+https://www.curseforge.com/minecraft/mc-mods/no-weather-effects
