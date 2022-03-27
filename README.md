@@ -34,7 +34,7 @@ Discord username: @Villagerjj#1076
 
 Best way to configure ingame settings for optimal performance:
 
-Reduce resolution to 30% in the Pojav settings. this does not effect visual quality, but still improves performance. change render distance to 5-6 chunks (depends on what quest model you have) change biome blending to lowest setting set lamb dynamic lights to fastest
+change render distance to 5-6 chunks (depends on what quest model you have) set lamb dynamic lights to fastest
 
 ## Q&A
 
