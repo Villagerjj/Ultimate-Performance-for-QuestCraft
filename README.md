@@ -1,6 +1,8 @@
 # Ultimate-Performance-for-QuestCraft
 Various mods to make quest craft run faster, and without modifying the vanilla experience. All mods are meant to be client side, though some mods are to help with servers that have server and client performance mods. I have tested out this mod pack on singleplayer, and multiplayer. The performance may or may not be noticeable, depending on what quest model you are using.
 
+__DISCLAIMER__ I AM NO LONGER MAINTAINING THIS REPO
+
 ## Improvements
 - Fixed crosshair disappearing
 - optimized rain 
